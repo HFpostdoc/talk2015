@@ -1,0 +1,43 @@
+Header 1
+================
+Header 2
+----------------
+### Header 3
+
+This is regular text.
+
+> This is a blockquote.
+>
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote
+
+This is an R Markdown document.
+
+```{{r}}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{{r fig.width=7}}
+plot(cars)
+```
+
+<img src="http://
+i.imgur.com/qM4s4rC.jpg">
+
+I can also do fancy latex equations $\alpha = \beta$ with help from
+[MathJax](http://www.mathjax.org/)
+
+What if we want to *italicize* or **bold**?
+
+* In a list, I may want to _italicize_ or __bold__ this way.
+
+I can also include inline `code` or
+
+```
+blocks of code
+```
+Or even a [link](http://google.com)
+
