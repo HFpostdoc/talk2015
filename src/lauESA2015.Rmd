@@ -1,0 +1,291 @@
+---
+title: "Evolution and Ecological Networks"
+subtitle: "Merging Community Genetics and Network Ecology"
+author: Matthew K. Lau -- Harvard Forest and Northern Arizona University
+date: 11 August 2015
+output: ioslides_presentation 
+widescreen: yes
+<!-- css: style.css -->
+mathjax: "http://example.com/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+
+---
+
+## Acknowledgements
+
+- Tom Whitham (Northern Arizona University)
+- Stuart Borrett (UNC Wilmington)
+- Stephen Shuster (Northern Arizona University)
+- Jamie Lamit (Michigan Technical University)
+- Todd Wojtowicz (Northern Arizona University)
+- Art Keith (Northern Arizona University)
+- David Solance Smith (Denison College)
+- Matt Zinkgraf (UC Davis)
+- Luke Evans (West Virginia University)
+- Rikke Naesborg (UC Berkeley)
+- **bipartite** (Dormann *et al.* 2008)
+
+## Take Home Slide
+
+>- Ecological and evolutionary processes are linked.
+- Eco-evo investigations have focused on species pairs, while network
+  ecology has little genetics.
+- We investigated how genetically based variation in a foundation
+  species impacts the structure of ecological networks.
+- **Take-home**: genetic variation in a foundation species can impact
+  ecological network structure, which could influence the dynamics and
+  evolution of complex communities.
+  
+----
+## The interface of ecology and evolution
+<div class="centered">
+<img src="../docs/images/bailey2012.png" alt="Community genetics is important" width=650>
+</div>
+Bailey et al. 2012 *New Phytologist*
+
+
+
+## Why study networks?
+
+## Why study networks?
+<div class="centered">
+<img src="../docs/images/gator.png" alt="Alligator" width=600>
+</div>
+
+
+## Why study networks?
+<div class="centered">
+<img src="../docs/images/afs1.png" alt="Alligator" width=600>
+</div>
+Bondavalli and Ulanowicz 1999 *Ecosystems*
+
+## Why study networks?
+<div class="centered">
+<img src="../docs/images/afs2.png" alt="Alligator" width=600>
+</div>
+Bondavalli and Ulanowicz 1999 *Ecosystems*
+
+## Why study networks?
+<div class="centered">
+<img src="../docs/images/afs3.png" alt="Alligator" width=600>
+</div>
+Bondavalli and Ulanowicz 1999 *Ecosystems*
+
+## Why study networks?
+<div class="centered">
+<img src="../docs/images/afs4.png" alt="Alligator" width=600>
+</div>
+Bondavalli and Ulanowicz 1999 *Ecosystems*
+
+## Why study evolution of networks?
+<div class="centered">
+<img src="../docs/images/knight2005fig1.png" alt="Trophic cascades across ecosystems" width=600>
+</div>
+Knight et al. 2005 *Nature*
+
+## Modularity
+<div class="centered">
+<img src="../docs/images/batroost.png" alt="utah from outerspace" width=800>
+</div>
+
+Fortuna *et al.* 2009 
+
+## Utah from outer-space
+<div class="centered">
+<img src="../docs/images/utah.png" alt="utah from outerspace" width=800>
+</div>
+
+## Utah at ground-level
+<div class="centered">
+<img src="../docs/images/common.jpg" alt="common garden" width=800>
+</div>
+
+## 
+<div class="columns-2">
+<img src="../docs/images/cottonwood2.jpg" alt="cottonwood tree" width=300>
+
+</div>
+
+## 
+<div class="columns-2">
+<img src="../docs/images/cottonwood2.jpg" alt="cottonwood tree" width=300>
+
+<img src="../docs/images/insects.jpg" alt="insects" width=300>
+</div>
+
+## Keith et al. 2010 *Ecology*
+
+<div class="columns-2">
+<img src="../docs/images/cottonwood2.jpg" alt="cottonwood tree" width=300>
+
+<img src="../docs/images/insects.jpg" alt="insects" width=300>
+</div>
+
+
+## Genotype-Species Network
+<div class="centered">
+<img src="../docs/images/gsn1.png" alt="Figure 1. Cottonwood genotype
+and arthropod species network" width=200>
+</div>
+<sub>Lau et al. (submitted *Ecology*)</sub>
+
+## Genotype-Species Network
+<div class="columns-2">
+<img src="../docs/images/gsn1.png" alt="Figure 1. Cottonwood genotype
+and arthropod species network" width=200>
+
+>- Modular network structure (*z* =3.82, *P* = 0.038)
+
+</div>
+<sub>Lau et al. (submitted *Ecology*)</sub>
+
+## Simulated communities
+
+## Simulated communities
+<div class="centered">
+**Warning - Math!**
+</div>
+
+## Simulated communities
+Shuster et al. 2006
+
+\[ n^{*}_{ij} = K [1 - \frac{\gamma}{2} \sigma^2_{z_{ij}} - \frac{\gamma}{2} (\theta_i - \bar{z}^{*}_{ij})] + E_{n_{ij}}
+\]
+
+## Simulated communities
+Shuster et al. 2006
+
+\[ n^{*}_{ij} = K [1 - \frac{\gamma}{2} \sigma^2_{z_{ij}} - \frac{\gamma}{2} (\theta_i - \bar{z}^{*}_{ij})] + E_{n_{ij}}
+\]
+
+<div class="centered">
+<div class="columns-3">
+<img src="../docs/images/leaf.jpg" alt="leaf" width=200>
+</div>
+</div>
+
+## Simulated communities
+Shuster et al. 2006
+
+\[ n^{*}_{ij} = K [1 - \frac{\gamma}{2} \sigma^2_{z_{ij}} - \frac{\gamma}{2} (\theta_i - \bar{z}^{*}_{ij})] + E_{n_{ij}}
+\]
+
+<div class="centered">
+<div class="columns-3">
+<img src="../docs/images/leaf.jpg" alt="leaf" width=200>
+<img src="../docs/images/proboscis.jpg" alt="insect proboscis" width=200>
+</div>
+</div>
+
+## Simulated communities
+Shuster et al. 2006
+
+\[ n^{*}_{ij} = K [1 - \frac{\gamma}{2} \sigma^2_{z_{ij}} - \frac{\gamma}{2} (\theta_i - \bar{z}^{*}_{ij})] + E_{n_{ij}}
+\]
+
+<div class="centered">
+<img src="../docs/images/insects.jpg" alt="insects" width=200>
+</div>
+
+## Simulated communities
+<div class="centered">
+<div class="columns-1">
+<img src="../docs/images/gsn2.png" alt="Figure 2. simulations" width=800>
+</div>
+</div>
+<sub>Lau et al. (submitted *Ecology*)</sub>
+
+
+## Genotypes -> network structure
+<div class="centered">
+<div class="columns-1">
+<img src="../docs/images/gsn4.png" alt="Figure 3. simulations zoomed" width=500>
+</div>
+</div>
+<sub>Lau et al. (submitted *Ecology*)</sub>
+
+## Lichen Interaction Networks
+
+<div class="columns-2">
+<img src="../docs/images/cottonwood2.jpg" alt="cottonwood tree" width=300>
+
+
+</div>
+
+## Lichen Interaction Networks
+
+<div class="columns-2">
+<img src="../docs/images/cottonwood2.jpg" alt="cottonwood tree" width=300>
+
+<img src="../docs/images/barklichen.jpg" alt="cottonwood tree" width=300>
+</div>
+
+
+<!-- ## Lichen - Garden and Wild -->
+<!-- <div class="centered"> -->
+<!-- <img src="../docs/images/lcn1.png" alt="Figure 1. Genotypic variation -->
+<!-- generates interaction network structure" width=600> -->
+<!-- </div> -->
+<!-- <sub>Lau et al. (In Prep)</sub> -->
+
+
+## Lichen - Garden and Wild
+<div class="centered">
+<img src="../docs/images/lcn3.png" alt="Figure 2. Genotypic variation
+generates interaction network structure" width=800>
+</div>
+<sub>Lau et al. (In Prep)</sub>
+
+## Lichen - Garden and Wild
+<div class="centered">
+<img src="../docs/images/lcn2.png" alt="Figure 3. Genotypic variation
+generates interaction network structure" width=700>
+</div>
+<sub>Lau et al. (In Prep)</sub>
+
+## Conclusions
+
+
+## All models are wrong: some are useful...
+<div class="centered">
+<img src="../docs/images/darwin2.jpg" alt="darwin" width=300>
+</div>
+
+
+## All models are wrong: some are useful, some are not.
+<div class="centered">
+<img src="../docs/images/darwin1.jpg" alt="darwin" width=600>
+</div>
+
+## Selection: Impacts on Networks
+<div class="centered">
+<img src="../docs/images/connorhartl.png" alt="modes of selection" width=700>
+</div>
+
+Connor & Hartl 2004 *A Primer of Ecological Genetics*
+
+## (Human)-Assisted Evolution
+<div class="centered">
+<img src="../docs/images/assisted_evolution.jpg" alt="assisted evolution" width=800>
+</div>
+
+- Van Oppen et al. 2015 *PNAS*
+
+----
+<div style="font-size: 400%; text-align:center">
+Thanks!
+</div>
+
+
+## Acknowledgements
+
+- Tom Whitham (Northern Arizona University)
+- Stuart Borrett (UNC Wilmington)
+- Stephen Shuster (Northern Arizona University)
+- Jamie Lamit (Michigan Technical University)
+- Todd Wojtowicz (Northern Arizona University)
+- Art Keith (Northern Arizona University)
+- David Solance Smith (Denison College)
+- Matt Zinkgraf (UC Davis)
+- Luke Evans (West Virginia University)
+- Rikke Naesborg (UC Berkeley)
+- **bipartite** (Dormann *et al.* 2008)
