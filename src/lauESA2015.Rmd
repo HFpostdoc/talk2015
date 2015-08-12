@@ -84,7 +84,7 @@ Knight et al. 2005 *Nature*
 
 ## Modularity
 <div class="centered">
-<img src="../docs/images/batroost.png" alt="utah from outerspace" width=800>
+<img src="../docs/images/batroost.png" alt="utah from outerspace" width=550>
 </div>
 
 Fortuna *et al.* 2009 
