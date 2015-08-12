@@ -12,16 +12,16 @@ mathjax: "http://example.com/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 
 ## Acknowledgements
 
-- Tom Whitham (Northern Arizona University)
-- Stuart Borrett (UNC Wilmington)
-- Stephen Shuster (Northern Arizona University)
-- Jamie Lamit (Michigan Technical University)
-- Todd Wojtowicz (Northern Arizona University)
-- Art Keith (Northern Arizona University)
+- *Tom Whitham* (Northern Arizona University)
+- *Stuart Borrett* (UNC Wilmington)
+- *Stephen Shuster* (Northern Arizona University)
+- *Jamie Lamit* (Michigan Technical University)
+- *Art Keith* (Northern Arizona University)
+- *Todd Wojtowicz* (Northern Arizona University)
+- *Rikke Naesborg* (UC Berkeley)
 - David Solance Smith (Denison College)
 - Matt Zinkgraf (UC Davis)
 - Luke Evans (West Virginia University)
-- Rikke Naesborg (UC Berkeley)
 - **bipartite** (Dormann *et al.* 2008)
 
 ## Take Home Slide
@@ -76,23 +76,27 @@ Bondavalli and Ulanowicz 1999 *Ecosystems*
 </div>
 Bondavalli and Ulanowicz 1999 *Ecosystems*
 
-## Why study evolution of networks?
-<div class="centered">
-<img src="../docs/images/knight2005fig1.png" alt="Trophic cascades across ecosystems" width=600>
-</div>
-Knight et al. 2005 *Nature*
-
-## Modularity
+## Network Structure: Modularity
 <div class="centered">
 <img src="../docs/images/batroost.png" alt="utah from outerspace" width=550>
 </div>
 
 Fortuna *et al.* 2009 
 
+
+## Why study evolution of networks?
+<div class="centered">
+<img src="../docs/images/knight2005fig1.png" alt="Trophic cascades across ecosystems" width=600>
+</div>
+Knight et al. 2005 *Nature*
+
+
 ## Utah from outer-space
 <div class="centered">
 <img src="../docs/images/utah.png" alt="utah from outerspace" width=800>
 </div>
+
+Ogden Nature Center
 
 ## Utah at ground-level
 <div class="centered">
